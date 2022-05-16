@@ -1,0 +1,21 @@
+{
+    "name": "material-oled",
+    "displayName": "Material Theme OLED",
+    "description": "Material Theme Darker, with a black background. Ideal for OLED displays.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material Theme OLED",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material Theme OLED-color-theme.json"
+            }
+        ]
+    }
+}
